@@ -12,7 +12,7 @@
 | STT    | MSSV          | Họ và Tên                |Chức Vụ    | Github                                          | Email                   |
 | :----: |:-------------:| :-----------------------:|:---------:|:-----------------------------------------------:|:-------------------------:
 | 1      | 20520278      | Phạm Hoàng Phúc          |Trưởng nhóm|                                                 |20520278@gm.uit.edu.vn   |
-| 2      | 20520767      | Trương Thị Thanh Thanh   |Thành viên |                                                 |20520767@gm.uit.edu.vn   |
+| 2      | 20520767      | Trương Thị Thanh Thanh   |Thành viên |[TTTThanh2812](https://github.com/TTTThanh2812)  |20520767@gm.uit.edu.vn   |
 | 3      | 20520816      | Đỗ Thị Thu Trang         |Thành viên |[DoThiThuTrang](https://github.com/DoThiThuTrang)|20520816@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
