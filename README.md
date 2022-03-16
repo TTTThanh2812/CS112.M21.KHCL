@@ -9,9 +9,9 @@
 <h2 align="center"><b>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
 
 ## BẢNG MỤC LỤC
-* Giới thiệu môn học
-* Thông tin về nhóm
-* Chủ đề báo cáo
+* [Giới thiệu môn học](https://github.com/DoThiThuTrang/CS112.M21.KHCL#gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
+* [Thông tin về nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#th%C3%B4ng-tin-v%E1%BB%81-nh%C3%B3m)
+* [Chủ đề báo cáo](https://github.com/DoThiThuTrang/CS112.M21.KHCL#ch%E1%BB%A7-%C4%91%E1%BB%81-b%C3%A1o-c%C3%A1o)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phân tích và thiết kế thuật toán - Algorithm Analysis and Design
@@ -33,3 +33,5 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 13
 * **Đề tài:** Luyện tập thiết kế thuật toán (1)
+
+## BÀI TẬP
