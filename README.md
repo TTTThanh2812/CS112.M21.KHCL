@@ -5,8 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h>
-<h2 align="center"><b>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
+<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
 
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](https://github.com/DoThiThuTrang/CS112.M21.KHCL#gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
