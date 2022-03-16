@@ -33,6 +33,6 @@
 
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 13
-* **Đề tài:** Luyện tập thiết kế thuật toán (1)
+* **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
 
 ## BÀI TẬP
