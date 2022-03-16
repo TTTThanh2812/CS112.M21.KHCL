@@ -22,6 +22,6 @@
 * **Năm học:** HK2 (2021 - 2022)
 * **Giảng viên:** Ths.Nguyễn Thanh Sơn
 
-## ĐỒ ÁN CUỐI KỲ 
+## SEMINAR 
 * **Đề tài:** Luyện tập thiết kế thuật toán (1)
 
