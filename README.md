@@ -35,6 +35,6 @@
 * **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
 
 ## BÀI TẬP
-## [1. BÀI TẬP VỀ NHÀ](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20v%E1%BB%81%20nh%C3%A0)
-## [2. BÀI TẬP WECODE]()
-## [3. BÀI TẬP HACKERRANK]()
+### [1. BÀI TẬP VỀ NHÀ](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20v%E1%BB%81%20nh%C3%A0)
+### [2. BÀI TẬP WECODE]()
+### [3. BÀI TẬP HACKERRANK]()
